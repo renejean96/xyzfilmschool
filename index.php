@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <!--====== Title ======-->
-    <title>XYZ Film School</title>
+    <title>3kMediaProduction</title>
     
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="images/favicon.png" type="image/png">
@@ -78,7 +78,7 @@
                 <div class="col-lg-12 col-md-10 col-sm-9 col-9">
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.html">
-                            <h3>XYZFILMSCHOOL</h3>
+                            <h3>3kMediaProduction</h3>
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="icon-bar"></span>
@@ -147,8 +147,8 @@
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s"></h1>
-                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Start Trial now</a>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Excellence Right here</h1>
+                            <a data-animation="fadeInUp" data-delay="1.3s" href="courses.html" class="main-btn">Explore courses</a>
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -160,8 +160,8 @@
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">More than 5,000+ courses for develop your skill</h1>
-                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Start Trial now</a>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Dream it create it</h1>
+                            <a data-animation="fadeInUp" data-delay="1.3s" href="courses.html" class="main-btn">Explore courses</a>
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -173,8 +173,8 @@
                 <div class="row">
                     <div class="col-xl-9 col-lg-10">
                         <div class="slider-cont">
-                            <h1 data-animation="bounceInLeft" data-delay="1s">More than 5,000+ courses for develop your skill</h1>
-                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Start Trial now</a>
+                            <h1 data-animation="bounceInLeft" data-delay="1s">Making immagination real</h1>
+                            <a data-animation="fadeInUp" data-delay="1.3s" href="#" class="main-btn">Explore coureses</a>
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -195,14 +195,6 @@
            
                         </div> <!-- row -->
                     </div> <!-- category -->
-                </div>
-                <div class="col-lg-5 offset-lg-1">
-                    <div class="category-form">
-                        <div class="form-title text-center">
-                            <h3> Get Discount courses </h3>
-                            <span>Sign up now </span>
-                        </div>
-                    </div>
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
@@ -271,7 +263,7 @@
                                     <a href="single_course.html"><img src="images/course/teacher/t-5.jpg" height="40" width="40" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Kalisa</h6></a>
                                 </div>
                                 <div class="review">
                                     <ul>
@@ -303,7 +295,7 @@
                                     <a href="single_course.html"><img src="images/course/teacher/t-5.jpg" height="40" width="40" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Kalisa</h6></a>
                                 </div>
                                 <div class="review">
                                     <ul>
@@ -335,7 +327,7 @@
                                     <a href="single_course.html"><img src="images/course/teacher/t-5.jpg" height="40" width="40" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Kalisa</h6></a>
                                 </div>
                                 <div class="review">
                                     <ul>
@@ -367,7 +359,7 @@
                                     <a href="single_course.html"><img src="images/course/teacher/t-5.jpg" height="40" width="40" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Kalisa</h6></a>
                                 </div>
                                 <div class="review">
                                     <ul>
@@ -399,7 +391,7 @@
                                     <a href="single_course.html"><img src="images/course/teacher/t-5.jpg" height="40" width="40" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Kalisa</h6></a>
                                 </div>
                                 <div class="review">
                                     <ul>
@@ -439,9 +431,9 @@
                                 <h6>XYZ FILM SCHOOL</h6>
                             </div> -->
                             <div class="footer-title pb-15">
-                                <h6>XYZ FILM SCHOOL</h6>
+                                <h6>3kMediaProduction</h6>
                             </div>
-                            <p>XYZ Film & Video Production Institute is a media academy that aims to train & produce video production professionally.</p>
+                            <p>3kMediaProduction Institute is a media academy that aims to train & produce video production professionally.</p>
                             <ul class="mt-20">
                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -520,7 +512,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="copyright text-md-left text-center pt-15">
-                            <p><a target="_blank" href="https://www.templateshub.net">XYZFILMSCHOOL</a> </p>
+                            <p><a target="_blank" href="#">3kMediaProduction</a> </p>
                         </div>
                     </div>
                     <div class="col-md-4">
